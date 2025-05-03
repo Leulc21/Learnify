@@ -1,12 +1,36 @@
-# React + Vite
+# Learnify — Online Learning Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Learnify is a modern, responsive, and animated frontend for an online learning platform. Built using **React.js**, **TailwindCSS**, and **Framer Motion**, the project showcases clean UI design and smooth animations to enhance the user experience of digital education platforms.
 
-Currently, two official plugins are available:
+## ✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 🎨 Responsive and accessible UI
+- ⚡ Smooth page transitions and animations using Framer Motion
+- 🌐 Modern design with TailwindCSS utility-first styling
+- 🧱 Modular and reusable components
+- 📱 Mobile-first layout
 
-## Expanding the ESLint configuration
+## 📚 Tech Stack
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **React.js** — Component-based architecture for building dynamic UIs
+- **Framer Motion** — Library for animation and motion effects
+- **TailwindCSS** — Utility-first CSS framework for rapid styling
+
+## 📁 Folder Structure
+
+learnify/
+├── public/
+├── src/
+│ ├── assets/
+│ ├── components/
+│ ├── pages/
+│ ├── App.jsx
+│ ├── index.js
+│ └── ...
+├── tailwind.config.js
+├── package.json
+└── README.md
+
+bash
+Copy
+Edit
